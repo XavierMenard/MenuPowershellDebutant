@@ -51,8 +51,5 @@ Module Microsoft.PowerShell.LocalAccounts (généralement inclus sous Windows 10
 Auteur
 Créé par Xavier Ménard — 2025/06/20
 
-Licence
-À adapter selon ta préférence (exemple : MIT License)
+Licence (MIT License)
 
-Copier
-Modifier
